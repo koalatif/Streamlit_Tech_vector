@@ -10,11 +10,12 @@ nltk
 streamlit
 
 # Optional dependencies for advanced features
-sentence-transformers
-gensim
+#sentence-transformers
+#gensim
 
 # Additional utilities
 lxml
 plotly
+
 
 
