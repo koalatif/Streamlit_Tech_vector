@@ -1,0 +1,22 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# Manipulation des données
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning / NLP
+scikit-learn
+nltk
+
+# Application web
+streamlit
+
+# Dépendances optionnelles (décommente si tu veux activer ces méthodes)
+# gensim
+# sentence-transformers
