@@ -1,22 +1,24 @@
-# Web scraping
-requests
-beautifulsoup4
+# Streamlit
+streamlit==1.27.1
 
-# Manipulation des données
-pandas
-numpy
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.13.0
+urllib3==2.0.4
+
+# Data manipulation
+pandas==2.1.0
+numpy==1.26.0
 
 # Visualisation
-matplotlib
-seaborn
+matplotlib==3.8.0
+seaborn==0.13.2
 
-# Machine learning / NLP
-scikit-learn
-nltk
+# NLP et ML
+scikit-learn==1.3.0
+nltk==3.8.1
 
-# Application web
-streamlit
-
-# Dépendances optionnelles (décommente si tu veux activer ces méthodes)
-# gensim
-# sentence-transformers
+# Optionnel : embeddings et Word2Vec
+gensim==4.3.2
+sentence-transformers==2.2.2
+torch==2.1.0
