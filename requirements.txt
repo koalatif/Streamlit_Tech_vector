@@ -1,22 +1,18 @@
-# Web scraping
-requests
-beautifulsoup4
+# Core dependencies
+streamlit>=1.28.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+nltk>=3.8.0
 
-# Manipulation des données
-pandas
-numpy
+# Optional dependencies (recommandées pour toutes les fonctionnalités)
+sentence-transformers>=2.2.0
+gensim>=4.3.0
 
-# Visualisation
-matplotlib
-seaborn
-
-# Machine learning / NLP
-scikit-learn
-nltk
-
-# Application web
-streamlit
-
-# Dépendances optionnelles (décommente si tu veux activer ces méthodes)
-gensim
-sentence-transformers
+# Additional dependencies for web scraping
+urllib3>=2.0.0
+lxml>=4.9.0
